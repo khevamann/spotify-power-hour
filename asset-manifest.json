@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.204d09f5.chunk.css",
-  "main.js": "/static/js/main.84c9c2a7.chunk.js",
-  "main.js.map": "/static/js/main.84c9c2a7.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.0c8f3ae9.chunk.js": "/static/js/2.0c8f3ae9.chunk.js",
-  "static/js/2.0c8f3ae9.chunk.js.map": "/static/js/2.0c8f3ae9.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.5eec00d9b8c1b991c3982ba08616a02c.js": "/precache-manifest.5eec00d9b8c1b991c3982ba08616a02c.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.204d09f5.chunk.css.map": "/static/css/main.204d09f5.chunk.css.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  "main.css": "/spotify-power-hour/static/css/main.204d09f5.chunk.css",
+  "main.js": "/spotify-power-hour/static/js/main.6600bb1e.chunk.js",
+  "main.js.map": "/spotify-power-hour/static/js/main.6600bb1e.chunk.js.map",
+  "runtime~main.js": "/spotify-power-hour/static/js/runtime~main.e1d5144b.js",
+  "runtime~main.js.map": "/spotify-power-hour/static/js/runtime~main.e1d5144b.js.map",
+  "static/js/2.0c8f3ae9.chunk.js": "/spotify-power-hour/static/js/2.0c8f3ae9.chunk.js",
+  "static/js/2.0c8f3ae9.chunk.js.map": "/spotify-power-hour/static/js/2.0c8f3ae9.chunk.js.map",
+  "index.html": "/spotify-power-hour/index.html",
+  "precache-manifest.81389825a76e82dc515b687054924577.js": "/spotify-power-hour/precache-manifest.81389825a76e82dc515b687054924577.js",
+  "service-worker.js": "/spotify-power-hour/service-worker.js",
+  "static/css/main.204d09f5.chunk.css.map": "/spotify-power-hour/static/css/main.204d09f5.chunk.css.map",
+  "static/media/logo.svg": "/spotify-power-hour/static/media/logo.5d5d9eef.svg"
 }
