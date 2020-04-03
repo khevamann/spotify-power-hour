@@ -12,7 +12,7 @@ class App extends Component {
     super();
     this.state = {
       timer: 0,
-      numSongs: 0,
+      numSongs: 61,
       token: null,
       item: {
         album: {
@@ -78,7 +78,7 @@ class App extends Component {
         console.log(data);
         this.setState((prevState) => ({
           timer: SKIP_TIME,
-          numSongs: prevState.numSongs + 1
+          numSongs: prevState.numSongs - 1
         }));
         this.getCurrentlyPlaying(token);
       },
