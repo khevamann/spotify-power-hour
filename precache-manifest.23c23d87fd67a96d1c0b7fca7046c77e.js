@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/spotify-power-hour/static/js/runtime~main.e1d5144b.js"
   },
   {
-    "revision": "e0bf8eb9a73cf838b841",
-    "url": "/spotify-power-hour/static/js/main.6600bb1e.chunk.js"
+    "revision": "80350f77134f4d7431ed",
+    "url": "/spotify-power-hour/static/js/main.ff530b1e.chunk.js"
   },
   {
     "revision": "d73b060bfdf63a77013e",
     "url": "/spotify-power-hour/static/js/2.0c8f3ae9.chunk.js"
   },
   {
-    "revision": "e0bf8eb9a73cf838b841",
+    "revision": "80350f77134f4d7431ed",
     "url": "/spotify-power-hour/static/css/main.204d09f5.chunk.css"
   },
   {
-    "revision": "a36c124e1e060ac2e2f5fdafb7f1ac73",
+    "revision": "bf1c94984324463e4c45cae5bfd867ea",
     "url": "/spotify-power-hour/index.html"
   }
 ];
